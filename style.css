@@ -1,0 +1,38 @@
+div#titulo{
+    float: center;
+    margin: auto;
+    width:100%;
+    height: 150px;
+    background-color:#bbdefb;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: #aa00ff;
+}
+div#cuerpo{
+    float: center;
+    margin: auto;
+    width: 90%;
+    height: 1000px;
+    background-color: #b0bec5;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: #01579b;
+}
+button{
+    font-size: 30px;
+    float: center;
+    width: 200px;
+    height: 40px;
+    color: #42a5f5;
+    
+}
+
+
