@@ -1,0 +1,92 @@
+div#titulo{
+    float: center;
+    margin: auto;
+    width:100%;
+    height: 150px;
+    background-color:#bbdefb;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: #aa00ff;
+}
+div#cuerpo{
+    float: center;
+    margin: auto;
+    width: 90%;
+    height: 1000px;
+    background-color: #b0bec5;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: #01579b;
+}
+h3{
+    margin: 3px;
+    font-size: 30px;
+    color: #01579b;
+
+}
+button{
+    font-size: 30px;
+    float: center;
+    width: 200px;
+    height: 40px;
+    color: #42a5f5;
+    
+}
+div#cuest{
+    float:center;
+    margin: 100px;
+    width: 40%;
+    height: 500px;
+    background-color: azure;
+    border-radius: 20px;
+}
+label{
+    margin: 5px;
+    text-align:left;
+    font-size: 30px;
+    
+}
+body{
+    background: linear-gradient(to left, #33ccff 1%, #ff99cc 100%);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+  }
+  
+  .buttons {
+    min-width: 300px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+  }
+  
+  .buttons a:hover {
+    transform: scale(1.2);
+  }
+
+
